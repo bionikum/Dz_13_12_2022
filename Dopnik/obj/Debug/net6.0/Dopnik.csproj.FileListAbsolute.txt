@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\bin\Debug\net6.0\Dopnik.exe
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\bin\Debug\net6.0\Dopnik.deps.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\bin\Debug\net6.0\Dopnik.runtimeconfig.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\bin\Debug\net6.0\Dopnik.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\bin\Debug\net6.0\Dopnik.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\refint\Dopnik.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\Dopnik.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\Dz_13_12_2022\Dopnik\obj\Debug\net6.0\ref\Dopnik.dll
